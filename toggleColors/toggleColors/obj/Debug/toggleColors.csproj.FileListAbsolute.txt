@@ -1,0 +1,9 @@
+C:\Users\Daan Duijkers\source\repos\toggleColors\toggleColors\bin\Debug\toggleColors.exe.config
+C:\Users\Daan Duijkers\source\repos\toggleColors\toggleColors\bin\Debug\toggleColors.exe
+C:\Users\Daan Duijkers\source\repos\toggleColors\toggleColors\bin\Debug\toggleColors.pdb
+C:\Users\Daan Duijkers\source\repos\toggleColors\toggleColors\obj\Debug\toggleColors.csprojAssemblyReference.cache
+C:\Users\Daan Duijkers\source\repos\toggleColors\toggleColors\obj\Debug\toggleColors.frmColor.resources
+C:\Users\Daan Duijkers\source\repos\toggleColors\toggleColors\obj\Debug\toggleColors.Properties.Resources.resources
+C:\Users\Daan Duijkers\source\repos\toggleColors\toggleColors\obj\Debug\toggleColors.csproj.GenerateResource.cache
+C:\Users\Daan Duijkers\source\repos\toggleColors\toggleColors\obj\Debug\toggleColors.exe
+C:\Users\Daan Duijkers\source\repos\toggleColors\toggleColors\obj\Debug\toggleColors.pdb

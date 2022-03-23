@@ -1,0 +1,18 @@
+\\mac\home\documents\visual studio 2017\Projects\ooptwee\ooptwee\bin\Debug\ooptwee.exe.config
+\\mac\home\documents\visual studio 2017\Projects\ooptwee\ooptwee\bin\Debug\ooptwee.exe
+\\mac\home\documents\visual studio 2017\Projects\ooptwee\ooptwee\bin\Debug\ooptwee.pdb
+\\mac\home\documents\visual studio 2017\Projects\ooptwee\ooptwee\obj\Debug\ooptwee.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2017\Projects\ooptwee\ooptwee\obj\Debug\ooptwee.Form1.resources
+\\mac\home\documents\visual studio 2017\Projects\ooptwee\ooptwee\obj\Debug\ooptwee.Properties.Resources.resources
+\\mac\home\documents\visual studio 2017\Projects\ooptwee\ooptwee\obj\Debug\ooptwee.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2017\Projects\ooptwee\ooptwee\obj\Debug\ooptwee.exe
+\\mac\home\documents\visual studio 2017\Projects\ooptwee\ooptwee\obj\Debug\ooptwee.pdb
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\ooptwee\ooptwee\bin\Debug\ooptwee.exe.config
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\ooptwee\ooptwee\obj\Debug\ooptwee.exe
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\ooptwee\ooptwee\obj\Debug\ooptwee.pdb
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\ooptwee\ooptwee\bin\Debug\ooptwee.exe
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\ooptwee\ooptwee\bin\Debug\ooptwee.pdb
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\ooptwee\ooptwee\obj\Debug\ooptwee.csprojResolveAssemblyReference.cache
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\ooptwee\ooptwee\obj\Debug\ooptwee.Form1.resources
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\ooptwee\ooptwee\obj\Debug\ooptwee.Properties.Resources.resources
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\ooptwee\ooptwee\obj\Debug\ooptwee.csproj.GenerateResource.Cache
