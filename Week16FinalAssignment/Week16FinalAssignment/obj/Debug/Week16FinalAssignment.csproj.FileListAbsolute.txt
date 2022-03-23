@@ -1,9 +1,0 @@
-C:\Users\Daan Duijkers\source\repos\Week16FinalAssignment\Week16FinalAssignment\obj\Debug\Week16FinalAssignment.csprojAssemblyReference.cache
-C:\Users\Daan Duijkers\source\repos\Week16FinalAssignment\Week16FinalAssignment\obj\Debug\Week16FinalAssignment.Properties.Resources.resources
-C:\Users\Daan Duijkers\source\repos\Week16FinalAssignment\Week16FinalAssignment\obj\Debug\Week16FinalAssignment.csproj.GenerateResource.cache
-C:\Users\Daan Duijkers\source\repos\Week16FinalAssignment\Week16FinalAssignment\obj\Debug\Week16FinalAssignment.csproj.CoreCompileInputs.cache
-C:\Users\Daan Duijkers\source\repos\Week16FinalAssignment\Week16FinalAssignment\bin\Debug\Week16FinalAssignment.exe.config
-C:\Users\Daan Duijkers\source\repos\Week16FinalAssignment\Week16FinalAssignment\bin\Debug\Week16FinalAssignment.exe
-C:\Users\Daan Duijkers\source\repos\Week16FinalAssignment\Week16FinalAssignment\bin\Debug\Week16FinalAssignment.pdb
-C:\Users\Daan Duijkers\source\repos\Week16FinalAssignment\Week16FinalAssignment\obj\Debug\Week16FinalAssignment.exe
-C:\Users\Daan Duijkers\source\repos\Week16FinalAssignment\Week16FinalAssignment\obj\Debug\Week16FinalAssignment.pdb

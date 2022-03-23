@@ -1,9 +1,0 @@
-C:\Users\Daan Duijkers\source\repos\week6Exam\week6Exam\bin\Debug\week6Exam.exe.config
-C:\Users\Daan Duijkers\source\repos\week6Exam\week6Exam\bin\Debug\week6Exam.exe
-C:\Users\Daan Duijkers\source\repos\week6Exam\week6Exam\bin\Debug\week6Exam.pdb
-C:\Users\Daan Duijkers\source\repos\week6Exam\week6Exam\obj\Debug\week6Exam.csprojAssemblyReference.cache
-C:\Users\Daan Duijkers\source\repos\week6Exam\week6Exam\obj\Debug\week6Exam.Form1.resources
-C:\Users\Daan Duijkers\source\repos\week6Exam\week6Exam\obj\Debug\week6Exam.Properties.Resources.resources
-C:\Users\Daan Duijkers\source\repos\week6Exam\week6Exam\obj\Debug\week6Exam.csproj.GenerateResource.cache
-C:\Users\Daan Duijkers\source\repos\week6Exam\week6Exam\obj\Debug\week6Exam.exe
-C:\Users\Daan Duijkers\source\repos\week6Exam\week6Exam\obj\Debug\week6Exam.pdb

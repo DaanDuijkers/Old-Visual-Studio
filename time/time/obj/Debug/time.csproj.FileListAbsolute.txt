@@ -1,9 +1,0 @@
-C:\Users\Daan Duijkers\source\repos\time\time\bin\Debug\time.exe.config
-C:\Users\Daan Duijkers\source\repos\time\time\bin\Debug\time.exe
-C:\Users\Daan Duijkers\source\repos\time\time\bin\Debug\time.pdb
-C:\Users\Daan Duijkers\source\repos\time\time\obj\Debug\time.csprojAssemblyReference.cache
-C:\Users\Daan Duijkers\source\repos\time\time\obj\Debug\time.Form1.resources
-C:\Users\Daan Duijkers\source\repos\time\time\obj\Debug\time.Properties.Resources.resources
-C:\Users\Daan Duijkers\source\repos\time\time\obj\Debug\time.csproj.GenerateResource.cache
-C:\Users\Daan Duijkers\source\repos\time\time\obj\Debug\time.exe
-C:\Users\Daan Duijkers\source\repos\time\time\obj\Debug\time.pdb
