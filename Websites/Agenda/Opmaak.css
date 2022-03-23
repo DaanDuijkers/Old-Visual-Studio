@@ -1,0 +1,45 @@
+﻿body {
+    background          : url('images/agenda.png');
+    background-repeat   : no-repeat;
+}
+
+#kalender{
+    position            : absolute;
+    top                 : 100px;
+    left                : 180px;
+    width               : 225px;
+    height              : 250px;
+}
+
+#tijdstip{
+    position            : absolute;
+    top                 : 100px;
+    left                : 540px;
+    width               : 180px;
+    height              : 140px;
+}
+
+#bericht{
+    position            : absolute;
+    top                 : 250px;
+    left                : 540px;
+    width               : 280px;
+    height              : 140px;
+}
+
+#overzicht{
+    position            : absolute;
+    top                 : 400px;
+    left                : 130px;
+    width               : 690px;
+    height              : 225px;
+    background-color    : white;
+}
+
+#knoppen{
+    position            : absolute;
+    top                 : 100px;
+    left                : 720px;
+    width               : 100px;
+    height              : 140px;
+}

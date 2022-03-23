@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MissionControl.Astronaut">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAIIAAAQAAAAAAAAAAgAAAAAAEAAAgAEAIAAAARAA=</HashCode>
+      <FileName>Astronaut.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MissionControl.Mission">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAgAAAAAAAEASAAAAAAAAAEAABABAABAAAQBAA=</HashCode>
+      <FileName>Mission.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MissionControl.MissionControl">
+    <Position X="4.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAMIAAAQAAAAAAAQAAAAAAACAAAABgAEAAAQAAQAA=</HashCode>
+      <FileName>MissionControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MissionControl.MissionControlForm" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>04EIEAAAQCAAAFEQBAHAMEAGAiAAIAAAIiAAQAAADIA=</HashCode>
+      <FileName>MissionControlForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MissionControl.Program" Collapsed="true">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MissionControl.Properties.Resources" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MissionControl.Properties.Settings" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

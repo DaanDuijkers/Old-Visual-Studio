@@ -1,0 +1,10 @@
+C:\Users\Daan Duijkers\source\repos\Week15_Demo\Week15_Demo\bin\Debug\Week15_Demo.exe.config
+C:\Users\Daan Duijkers\source\repos\Week15_Demo\Week15_Demo\bin\Debug\Week15_Demo.exe
+C:\Users\Daan Duijkers\source\repos\Week15_Demo\Week15_Demo\bin\Debug\Week15_Demo.pdb
+C:\Users\Daan Duijkers\source\repos\Week15_Demo\Week15_Demo\obj\Debug\Week15_Demo.csprojAssemblyReference.cache
+C:\Users\Daan Duijkers\source\repos\Week15_Demo\Week15_Demo\obj\Debug\Week15_Demo.Form1.resources
+C:\Users\Daan Duijkers\source\repos\Week15_Demo\Week15_Demo\obj\Debug\Week15_Demo.Properties.Resources.resources
+C:\Users\Daan Duijkers\source\repos\Week15_Demo\Week15_Demo\obj\Debug\Week15_Demo.csproj.GenerateResource.cache
+C:\Users\Daan Duijkers\source\repos\Week15_Demo\Week15_Demo\obj\Debug\Week15_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Daan Duijkers\source\repos\Week15_Demo\Week15_Demo\obj\Debug\Week15_Demo.exe
+C:\Users\Daan Duijkers\source\repos\Week15_Demo\Week15_Demo\obj\Debug\Week15_Demo.pdb

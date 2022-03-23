@@ -1,0 +1,9 @@
+C:\Users\Daan Duijkers\source\repos\week7Assignment\week7Assignment\bin\Debug\week7Assignment.exe.config
+C:\Users\Daan Duijkers\source\repos\week7Assignment\week7Assignment\bin\Debug\week7Assignment.exe
+C:\Users\Daan Duijkers\source\repos\week7Assignment\week7Assignment\bin\Debug\week7Assignment.pdb
+C:\Users\Daan Duijkers\source\repos\week7Assignment\week7Assignment\obj\Debug\week7Assignment.csprojAssemblyReference.cache
+C:\Users\Daan Duijkers\source\repos\week7Assignment\week7Assignment\obj\Debug\week7Assignment.Form1.resources
+C:\Users\Daan Duijkers\source\repos\week7Assignment\week7Assignment\obj\Debug\week7Assignment.Properties.Resources.resources
+C:\Users\Daan Duijkers\source\repos\week7Assignment\week7Assignment\obj\Debug\week7Assignment.csproj.GenerateResource.cache
+C:\Users\Daan Duijkers\source\repos\week7Assignment\week7Assignment\obj\Debug\week7Assignment.exe
+C:\Users\Daan Duijkers\source\repos\week7Assignment\week7Assignment\obj\Debug\week7Assignment.pdb
