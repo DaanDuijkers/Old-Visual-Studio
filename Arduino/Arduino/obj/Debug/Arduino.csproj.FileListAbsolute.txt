@@ -1,0 +1,9 @@
+C:\Users\Daan Duijkers\source\repos\Arduino\Arduino\bin\Debug\Arduino.exe.config
+C:\Users\Daan Duijkers\source\repos\Arduino\Arduino\bin\Debug\Arduino.exe
+C:\Users\Daan Duijkers\source\repos\Arduino\Arduino\bin\Debug\Arduino.pdb
+C:\Users\Daan Duijkers\source\repos\Arduino\Arduino\obj\Debug\Arduino.csprojAssemblyReference.cache
+C:\Users\Daan Duijkers\source\repos\Arduino\Arduino\obj\Debug\Arduino.Form1.resources
+C:\Users\Daan Duijkers\source\repos\Arduino\Arduino\obj\Debug\Arduino.Properties.Resources.resources
+C:\Users\Daan Duijkers\source\repos\Arduino\Arduino\obj\Debug\Arduino.csproj.GenerateResource.cache
+C:\Users\Daan Duijkers\source\repos\Arduino\Arduino\obj\Debug\Arduino.exe
+C:\Users\Daan Duijkers\source\repos\Arduino\Arduino\obj\Debug\Arduino.pdb

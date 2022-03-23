@@ -1,0 +1,13 @@
+C:\REPO\gilde-opleidingen\Leren Programmeren in C sharp\Deel03\opdrachten\H1\Garages\Garages\bin\Debug\Garages.exe.config
+C:\REPO\gilde-opleidingen\Leren Programmeren in C sharp\Deel03\opdrachten\H1\Garages\Garages\bin\Debug\Garages.exe
+C:\REPO\gilde-opleidingen\Leren Programmeren in C sharp\Deel03\opdrachten\H1\Garages\Garages\bin\Debug\Garages.pdb
+C:\REPO\gilde-opleidingen\Leren Programmeren in C sharp\Deel03\opdrachten\H1\Garages\Garages\obj\Debug\Garages.csprojResolveAssemblyReference.cache
+C:\REPO\gilde-opleidingen\Leren Programmeren in C sharp\Deel03\opdrachten\H1\Garages\Garages\obj\Debug\Garages.FrmGarages.resources
+C:\REPO\gilde-opleidingen\Leren Programmeren in C sharp\Deel03\opdrachten\H1\Garages\Garages\obj\Debug\Garages.Properties.Resources.resources
+C:\REPO\gilde-opleidingen\Leren Programmeren in C sharp\Deel03\opdrachten\H1\Garages\Garages\obj\Debug\Garages.csproj.GenerateResource.Cache
+C:\REPO\gilde-opleidingen\Leren Programmeren in C sharp\Deel03\opdrachten\H1\Garages\Garages\obj\Debug\Garages.csproj.CoreCompileInputs.cache
+C:\REPO\gilde-opleidingen\Leren Programmeren in C sharp\Deel03\opdrachten\H1\Garages\Garages\obj\Debug\Garages.exe
+C:\REPO\gilde-opleidingen\Leren Programmeren in C sharp\Deel03\opdrachten\H1\Garages\Garages\obj\Debug\Garages.pdb
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\Garages\Garages\bin\Debug\Garages.exe.config
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\Garages\Garages\obj\Debug\Garages.exe
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\Garages\Garages\obj\Debug\Garages.pdb

@@ -1,0 +1,18 @@
+c:\users\daan duijkers\documents\visual studio 2015\Projects\Hoofdstuk 4 opdracht 2\Hoofdstuk 4 opdracht 2\bin\Debug\Hoofdstuk 4 opdracht 2.exe.config
+c:\users\daan duijkers\documents\visual studio 2015\Projects\Hoofdstuk 4 opdracht 2\Hoofdstuk 4 opdracht 2\bin\Debug\Hoofdstuk 4 opdracht 2.exe
+c:\users\daan duijkers\documents\visual studio 2015\Projects\Hoofdstuk 4 opdracht 2\Hoofdstuk 4 opdracht 2\bin\Debug\Hoofdstuk 4 opdracht 2.pdb
+c:\users\daan duijkers\documents\visual studio 2015\Projects\Hoofdstuk 4 opdracht 2\Hoofdstuk 4 opdracht 2\obj\Debug\Hoofdstuk 4 opdracht 2.csprojResolveAssemblyReference.cache
+c:\users\daan duijkers\documents\visual studio 2015\Projects\Hoofdstuk 4 opdracht 2\Hoofdstuk 4 opdracht 2\obj\Debug\Hoofdstuk_4_opdracht_2.Form1.resources
+c:\users\daan duijkers\documents\visual studio 2015\Projects\Hoofdstuk 4 opdracht 2\Hoofdstuk 4 opdracht 2\obj\Debug\Hoofdstuk_4_opdracht_2.Properties.Resources.resources
+c:\users\daan duijkers\documents\visual studio 2015\Projects\Hoofdstuk 4 opdracht 2\Hoofdstuk 4 opdracht 2\obj\Debug\Hoofdstuk 4 opdracht 2.csproj.GenerateResource.Cache
+c:\users\daan duijkers\documents\visual studio 2015\Projects\Hoofdstuk 4 opdracht 2\Hoofdstuk 4 opdracht 2\obj\Debug\Hoofdstuk 4 opdracht 2.exe
+c:\users\daan duijkers\documents\visual studio 2015\Projects\Hoofdstuk 4 opdracht 2\Hoofdstuk 4 opdracht 2\obj\Debug\Hoofdstuk 4 opdracht 2.pdb
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\Hoofdstuk4\Hoofdstuk 4 opdracht 2\Hoofdstuk 4 opdracht 2\bin\Debug\Hoofdstuk 4 opdracht 2.exe.config
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\Hoofdstuk4\Hoofdstuk 4 opdracht 2\Hoofdstuk 4 opdracht 2\bin\Debug\Hoofdstuk 4 opdracht 2.exe
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\Hoofdstuk4\Hoofdstuk 4 opdracht 2\Hoofdstuk 4 opdracht 2\bin\Debug\Hoofdstuk 4 opdracht 2.pdb
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\Hoofdstuk4\Hoofdstuk 4 opdracht 2\Hoofdstuk 4 opdracht 2\obj\Debug\Hoofdstuk 4 opdracht 2.csprojResolveAssemblyReference.cache
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\Hoofdstuk4\Hoofdstuk 4 opdracht 2\Hoofdstuk 4 opdracht 2\obj\Debug\Hoofdstuk_4_opdracht_2.Form1.resources
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\Hoofdstuk4\Hoofdstuk 4 opdracht 2\Hoofdstuk 4 opdracht 2\obj\Debug\Hoofdstuk_4_opdracht_2.Properties.Resources.resources
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\Hoofdstuk4\Hoofdstuk 4 opdracht 2\Hoofdstuk 4 opdracht 2\obj\Debug\Hoofdstuk 4 opdracht 2.csproj.GenerateResource.Cache
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\Hoofdstuk4\Hoofdstuk 4 opdracht 2\Hoofdstuk 4 opdracht 2\obj\Debug\Hoofdstuk 4 opdracht 2.exe
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\Hoofdstuk4\Hoofdstuk 4 opdracht 2\Hoofdstuk 4 opdracht 2\obj\Debug\Hoofdstuk 4 opdracht 2.pdb

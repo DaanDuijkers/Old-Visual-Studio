@@ -1,0 +1,9 @@
+C:\Users\Daan Duijkers\source\repos\ageChecker\ageChecker\bin\Debug\ageChecker.exe.config
+C:\Users\Daan Duijkers\source\repos\ageChecker\ageChecker\bin\Debug\ageChecker.exe
+C:\Users\Daan Duijkers\source\repos\ageChecker\ageChecker\bin\Debug\ageChecker.pdb
+C:\Users\Daan Duijkers\source\repos\ageChecker\ageChecker\obj\Debug\ageChecker.csprojAssemblyReference.cache
+C:\Users\Daan Duijkers\source\repos\ageChecker\ageChecker\obj\Debug\ageChecker.Form1.resources
+C:\Users\Daan Duijkers\source\repos\ageChecker\ageChecker\obj\Debug\ageChecker.Properties.Resources.resources
+C:\Users\Daan Duijkers\source\repos\ageChecker\ageChecker\obj\Debug\ageChecker.csproj.GenerateResource.cache
+C:\Users\Daan Duijkers\source\repos\ageChecker\ageChecker\obj\Debug\ageChecker.exe
+C:\Users\Daan Duijkers\source\repos\ageChecker\ageChecker\obj\Debug\ageChecker.pdb

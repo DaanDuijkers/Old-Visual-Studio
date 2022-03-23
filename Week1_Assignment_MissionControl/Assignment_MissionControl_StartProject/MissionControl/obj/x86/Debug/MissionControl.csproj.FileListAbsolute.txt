@@ -1,0 +1,9 @@
+C:\Users\Daan Duijkers\source\repos\Week1_Assignment_MissionControl\Assignment_MissionControl_StartProject\MissionControl\bin\Debug\MissionControl.exe
+C:\Users\Daan Duijkers\source\repos\Week1_Assignment_MissionControl\Assignment_MissionControl_StartProject\MissionControl\bin\Debug\MissionControl.pdb
+C:\Users\Daan Duijkers\source\repos\Week1_Assignment_MissionControl\Assignment_MissionControl_StartProject\MissionControl\obj\x86\Debug\MissionControl.csprojAssemblyReference.cache
+C:\Users\Daan Duijkers\source\repos\Week1_Assignment_MissionControl\Assignment_MissionControl_StartProject\MissionControl\obj\x86\Debug\MissionControl.MissionControlForm.resources
+C:\Users\Daan Duijkers\source\repos\Week1_Assignment_MissionControl\Assignment_MissionControl_StartProject\MissionControl\obj\x86\Debug\MissionControl.Properties.Resources.resources
+C:\Users\Daan Duijkers\source\repos\Week1_Assignment_MissionControl\Assignment_MissionControl_StartProject\MissionControl\obj\x86\Debug\MissionControl.csproj.GenerateResource.cache
+C:\Users\Daan Duijkers\source\repos\Week1_Assignment_MissionControl\Assignment_MissionControl_StartProject\MissionControl\obj\x86\Debug\MissionControl.csproj.CoreCompileInputs.cache
+C:\Users\Daan Duijkers\source\repos\Week1_Assignment_MissionControl\Assignment_MissionControl_StartProject\MissionControl\obj\x86\Debug\MissionControl.exe
+C:\Users\Daan Duijkers\source\repos\Week1_Assignment_MissionControl\Assignment_MissionControl_StartProject\MissionControl\obj\x86\Debug\MissionControl.pdb

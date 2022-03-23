@@ -1,0 +1,9 @@
+C:\Users\Daan Duijkers\source\repos\musicPlaylist\musicPlaylist\obj\Debug\musicPlaylist.csprojAssemblyReference.cache
+C:\Users\Daan Duijkers\source\repos\musicPlaylist\musicPlaylist\obj\Debug\musicPlaylist.frmMusicPlaylist.resources
+C:\Users\Daan Duijkers\source\repos\musicPlaylist\musicPlaylist\obj\Debug\musicPlaylist.Properties.Resources.resources
+C:\Users\Daan Duijkers\source\repos\musicPlaylist\musicPlaylist\obj\Debug\musicPlaylist.csproj.GenerateResource.cache
+C:\Users\Daan Duijkers\source\repos\musicPlaylist\musicPlaylist\bin\Debug\musicPlaylist.exe.config
+C:\Users\Daan Duijkers\source\repos\musicPlaylist\musicPlaylist\bin\Debug\musicPlaylist.exe
+C:\Users\Daan Duijkers\source\repos\musicPlaylist\musicPlaylist\bin\Debug\musicPlaylist.pdb
+C:\Users\Daan Duijkers\source\repos\musicPlaylist\musicPlaylist\obj\Debug\musicPlaylist.exe
+C:\Users\Daan Duijkers\source\repos\musicPlaylist\musicPlaylist\obj\Debug\musicPlaylist.pdb

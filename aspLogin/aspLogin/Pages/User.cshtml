@@ -1,0 +1,13 @@
+﻿@page
+@model aspLogin.Pages.UserModel
+@{
+}
+
+<div class="text-center">
+    <h1 class="display-4">Secret</h1>
+    <p>
+        This page should only be accessible when the user has logged in!<br />
+        Your id is: @User.FindFirst("id").Value <br />
+        Your username is: @User.Identity.Name <br />
+    </p>
+</div>

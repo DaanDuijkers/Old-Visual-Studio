@@ -1,0 +1,10 @@
+C:\Users\Daan Duijkers\source\repos\OopAssignment\OopAssignment\bin\Debug\OopAssignment.exe.config
+C:\Users\Daan Duijkers\source\repos\OopAssignment\OopAssignment\bin\Debug\OopAssignment.exe
+C:\Users\Daan Duijkers\source\repos\OopAssignment\OopAssignment\bin\Debug\OopAssignment.pdb
+C:\Users\Daan Duijkers\source\repos\OopAssignment\OopAssignment\obj\Debug\OopAssignment.csprojAssemblyReference.cache
+C:\Users\Daan Duijkers\source\repos\OopAssignment\OopAssignment\obj\Debug\OopAssignment.Form1.resources
+C:\Users\Daan Duijkers\source\repos\OopAssignment\OopAssignment\obj\Debug\OopAssignment.Properties.Resources.resources
+C:\Users\Daan Duijkers\source\repos\OopAssignment\OopAssignment\obj\Debug\OopAssignment.csproj.GenerateResource.cache
+C:\Users\Daan Duijkers\source\repos\OopAssignment\OopAssignment\obj\Debug\OopAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Daan Duijkers\source\repos\OopAssignment\OopAssignment\obj\Debug\OopAssignment.exe
+C:\Users\Daan Duijkers\source\repos\OopAssignment\OopAssignment\obj\Debug\OopAssignment.pdb

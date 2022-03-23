@@ -1,0 +1,9 @@
+C:\Users\Daan Duijkers\source\repos\bodyWeight\bodyWeight\bin\Debug\bodyWeight.exe.config
+C:\Users\Daan Duijkers\source\repos\bodyWeight\bodyWeight\bin\Debug\bodyWeight.exe
+C:\Users\Daan Duijkers\source\repos\bodyWeight\bodyWeight\bin\Debug\bodyWeight.pdb
+C:\Users\Daan Duijkers\source\repos\bodyWeight\bodyWeight\obj\Debug\bodyWeight.csprojAssemblyReference.cache
+C:\Users\Daan Duijkers\source\repos\bodyWeight\bodyWeight\obj\Debug\bodyWeight.Form1.resources
+C:\Users\Daan Duijkers\source\repos\bodyWeight\bodyWeight\obj\Debug\bodyWeight.Properties.Resources.resources
+C:\Users\Daan Duijkers\source\repos\bodyWeight\bodyWeight\obj\Debug\bodyWeight.csproj.GenerateResource.cache
+C:\Users\Daan Duijkers\source\repos\bodyWeight\bodyWeight\obj\Debug\bodyWeight.exe
+C:\Users\Daan Duijkers\source\repos\bodyWeight\bodyWeight\obj\Debug\bodyWeight.pdb

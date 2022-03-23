@@ -1,0 +1,9 @@
+C:\Users\Daan Duijkers\source\repos\Week1FirstForm\Week1FirstForm\bin\Debug\Week1FirstForm.exe.config
+C:\Users\Daan Duijkers\source\repos\Week1FirstForm\Week1FirstForm\bin\Debug\Week1FirstForm.exe
+C:\Users\Daan Duijkers\source\repos\Week1FirstForm\Week1FirstForm\bin\Debug\Week1FirstForm.pdb
+C:\Users\Daan Duijkers\source\repos\Week1FirstForm\Week1FirstForm\obj\Debug\Week1FirstForm.csprojAssemblyReference.cache
+C:\Users\Daan Duijkers\source\repos\Week1FirstForm\Week1FirstForm\obj\Debug\Week1FirstForm.Form1.resources
+C:\Users\Daan Duijkers\source\repos\Week1FirstForm\Week1FirstForm\obj\Debug\Week1FirstForm.Properties.Resources.resources
+C:\Users\Daan Duijkers\source\repos\Week1FirstForm\Week1FirstForm\obj\Debug\Week1FirstForm.csproj.GenerateResource.cache
+C:\Users\Daan Duijkers\source\repos\Week1FirstForm\Week1FirstForm\obj\Debug\Week1FirstForm.exe
+C:\Users\Daan Duijkers\source\repos\Week1FirstForm\Week1FirstForm\obj\Debug\Week1FirstForm.pdb

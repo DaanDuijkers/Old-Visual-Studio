@@ -1,0 +1,19 @@
+﻿@page
+@model aspLogin.LoginModel
+@{
+}
+<h1>Login</h1>
+<form method="post">
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <div class="form-group">
+        <label asp-for="Login.Person.Username"></label>
+        <input asp-for="Login.Person.Username" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="Login.Person.Password"></label>
+        <input asp-for="Login.Person.Password" class="form-control">
+    </div>
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">Log in</button>
+    </div>
+</form>

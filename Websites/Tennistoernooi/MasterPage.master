@@ -1,0 +1,34 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head runat="server">
+        <title>Tennistoernooi</title>
+        <link rel="stylesheet" href="Styles/StyleSheet.css" type="text/css" />
+        <asp:ContentPlaceHolder id="head" runat="server">
+        </asp:ContentPlaceHolder>
+    </head>
+    <body>
+        <form id="form1" runat="server">
+        <div>
+            <div id="navigation">
+                <ul id="nav">
+                    <li><asp:HyperLink ID="lnkIndex" runat="server" NavigateUrl="~/Index.aspx" Text="click" Target="_blank">Home</asp:HyperLink></li>
+                    <li><asp:HyperLink ID="lnkSpelers" NavigateUrl="~/Paginas/Spelers.aspx" runat="server" Text="click" Target="_blank">Spelers</asp:HyperLink></li>
+                    <li><asp:HyperLink ID="lnkScholen" NavigateUrl="~/Paginas/Scholen.aspx" runat="server" Text="click" Target="_blank">Scholen</asp:HyperLink></li>
+                    <li><asp:HyperLink ID="lnkAanmeldingen" NavigateUrl="~/Paginas/Aanmeldingen.aspx" runat="server" Text="click" Target="_blank">Aanmeldingen</asp:HyperLink></li>
+                    <li><asp:HyperLink ID="lnkWedstrijden" NavigateUrl="~/Paginas/Wedstrijden.aspx" runat="server" Text="click" Target="_blank">Wedstrijden</asp:HyperLink></li>
+                    <li><asp:HyperLink ID="lnkUitslagen" NavigateUrl="~/Paginas/Uitslagen.aspx" runat="server" Text="click" Target="_blank">Uitslagen</asp:HyperLink></li>
+                    <li><asp:HyperLink ID="lnkToernooien" runat="server" NavigateUrl="~/Paginas/Toernooien.aspx" Text="click" Target="_blank">Toernooien</asp:HyperLink></li>
+                    <li>Overzicht</li>
+                </ul>
+            </div>
+            <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+                <div id="Products">
+
+                </div>
+            </asp:ContentPlaceHolder>
+        </div>
+        </form>
+    </body>
+</html>

@@ -1,0 +1,10 @@
+C:\Users\Daan Duijkers\source\repos\bankAccount\bankAccount\bin\Debug\bankAccount.exe.config
+C:\Users\Daan Duijkers\source\repos\bankAccount\bankAccount\bin\Debug\bankAccount.exe
+C:\Users\Daan Duijkers\source\repos\bankAccount\bankAccount\bin\Debug\bankAccount.pdb
+C:\Users\Daan Duijkers\source\repos\bankAccount\bankAccount\obj\Debug\bankAccount.csprojAssemblyReference.cache
+C:\Users\Daan Duijkers\source\repos\bankAccount\bankAccount\obj\Debug\bankAccount.Form1.resources
+C:\Users\Daan Duijkers\source\repos\bankAccount\bankAccount\obj\Debug\bankAccount.Properties.Resources.resources
+C:\Users\Daan Duijkers\source\repos\bankAccount\bankAccount\obj\Debug\bankAccount.csproj.GenerateResource.cache
+C:\Users\Daan Duijkers\source\repos\bankAccount\bankAccount\obj\Debug\bankAccount.csproj.CoreCompileInputs.cache
+C:\Users\Daan Duijkers\source\repos\bankAccount\bankAccount\obj\Debug\bankAccount.exe
+C:\Users\Daan Duijkers\source\repos\bankAccount\bankAccount\obj\Debug\bankAccount.pdb

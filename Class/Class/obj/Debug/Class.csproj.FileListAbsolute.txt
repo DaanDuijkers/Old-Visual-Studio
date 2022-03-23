@@ -1,0 +1,10 @@
+C:\Users\Daan Duijkers\source\repos\Class\Class\bin\Debug\Class.exe.config
+C:\Users\Daan Duijkers\source\repos\Class\Class\bin\Debug\Class.exe
+C:\Users\Daan Duijkers\source\repos\Class\Class\bin\Debug\Class.pdb
+C:\Users\Daan Duijkers\source\repos\Class\Class\obj\Debug\Class.csprojAssemblyReference.cache
+C:\Users\Daan Duijkers\source\repos\Class\Class\obj\Debug\Class.Form1.resources
+C:\Users\Daan Duijkers\source\repos\Class\Class\obj\Debug\Class.Properties.Resources.resources
+C:\Users\Daan Duijkers\source\repos\Class\Class\obj\Debug\Class.csproj.GenerateResource.cache
+C:\Users\Daan Duijkers\source\repos\Class\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+C:\Users\Daan Duijkers\source\repos\Class\Class\obj\Debug\Class.exe
+C:\Users\Daan Duijkers\source\repos\Class\Class\obj\Debug\Class.pdb

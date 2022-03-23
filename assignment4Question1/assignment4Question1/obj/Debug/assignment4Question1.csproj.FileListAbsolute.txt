@@ -1,0 +1,9 @@
+C:\Users\Daan Duijkers\source\repos\assignment4Question1\assignment4Question1\bin\Debug\assignment4Question1.exe.config
+C:\Users\Daan Duijkers\source\repos\assignment4Question1\assignment4Question1\bin\Debug\assignment4Question1.exe
+C:\Users\Daan Duijkers\source\repos\assignment4Question1\assignment4Question1\bin\Debug\assignment4Question1.pdb
+C:\Users\Daan Duijkers\source\repos\assignment4Question1\assignment4Question1\obj\Debug\assignment4Question1.csprojAssemblyReference.cache
+C:\Users\Daan Duijkers\source\repos\assignment4Question1\assignment4Question1\obj\Debug\assignment4Question1.Form1.resources
+C:\Users\Daan Duijkers\source\repos\assignment4Question1\assignment4Question1\obj\Debug\assignment4Question1.Properties.Resources.resources
+C:\Users\Daan Duijkers\source\repos\assignment4Question1\assignment4Question1\obj\Debug\assignment4Question1.csproj.GenerateResource.cache
+C:\Users\Daan Duijkers\source\repos\assignment4Question1\assignment4Question1\obj\Debug\assignment4Question1.exe
+C:\Users\Daan Duijkers\source\repos\assignment4Question1\assignment4Question1\obj\Debug\assignment4Question1.pdb

@@ -1,0 +1,18 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+    <hr />
+    <form method="post" enctype="multipart/form-data">
+        <input id="File1" type="file" asp-for="Photo" />
+        <input id="Submit1" type="submit" value="Upload" class="btn-success" />
+        <hr />
+        <b>@ViewData["Message"]</b>
+    </form>
+</div>

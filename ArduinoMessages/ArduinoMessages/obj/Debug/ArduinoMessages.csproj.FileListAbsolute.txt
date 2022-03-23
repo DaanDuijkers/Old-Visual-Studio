@@ -1,0 +1,9 @@
+C:\Users\Daan Duijkers\source\repos\ArduinoMessages\ArduinoMessages\bin\Debug\ArduinoMessages.exe.config
+C:\Users\Daan Duijkers\source\repos\ArduinoMessages\ArduinoMessages\bin\Debug\ArduinoMessages.exe
+C:\Users\Daan Duijkers\source\repos\ArduinoMessages\ArduinoMessages\bin\Debug\ArduinoMessages.pdb
+C:\Users\Daan Duijkers\source\repos\ArduinoMessages\ArduinoMessages\obj\Debug\ArduinoMessages.csprojAssemblyReference.cache
+C:\Users\Daan Duijkers\source\repos\ArduinoMessages\ArduinoMessages\obj\Debug\ArduinoMessages.Form1.resources
+C:\Users\Daan Duijkers\source\repos\ArduinoMessages\ArduinoMessages\obj\Debug\ArduinoMessages.Properties.Resources.resources
+C:\Users\Daan Duijkers\source\repos\ArduinoMessages\ArduinoMessages\obj\Debug\ArduinoMessages.csproj.GenerateResource.cache
+C:\Users\Daan Duijkers\source\repos\ArduinoMessages\ArduinoMessages\obj\Debug\ArduinoMessages.exe
+C:\Users\Daan Duijkers\source\repos\ArduinoMessages\ArduinoMessages\obj\Debug\ArduinoMessages.pdb

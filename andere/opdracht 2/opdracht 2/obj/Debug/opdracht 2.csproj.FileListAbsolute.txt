@@ -1,0 +1,9 @@
+c:\users\daan duijkers\documents\visual studio 2015\Projects\opdracht 2\opdracht 2\bin\Debug\opdracht 2.exe.config
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\opdracht 2\opdracht 2\obj\Debug\opdracht_2.Form1.resources
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\opdracht 2\opdracht 2\obj\Debug\opdracht_2.Properties.Resources.resources
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\opdracht 2\opdracht 2\obj\Debug\opdracht 2.csproj.GenerateResource.Cache
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\opdracht 2\opdracht 2\obj\Debug\opdracht 2.csprojResolveAssemblyReference.cache
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\opdracht 2\opdracht 2\bin\Debug\opdracht 2.exe
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\opdracht 2\opdracht 2\bin\Debug\opdracht 2.pdb
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\opdracht 2\opdracht 2\obj\Debug\opdracht 2.exe
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\opdracht 2\opdracht 2\obj\Debug\opdracht 2.pdb

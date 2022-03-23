@@ -1,0 +1,8 @@
+﻿@page
+@model loginFormWithSession.Pages.WelcomeModel
+
+@if (HttpContext.Session == "abc")
+{
+    <h1>Welcome @Model.Username</h1>
+    <a asp-page="Index" asp-page-handler="Logout">Logout</a>
+}

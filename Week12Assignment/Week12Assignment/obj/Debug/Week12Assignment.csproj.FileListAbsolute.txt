@@ -1,0 +1,12 @@
+C:\Users\Daan Duijkers\source\repos\Week12Assignment\Week12Assignment\bin\Debug\Week12Assignment.exe.config
+C:\Users\Daan Duijkers\source\repos\Week12Assignment\Week12Assignment\bin\Debug\Week12Assignment.exe
+C:\Users\Daan Duijkers\source\repos\Week12Assignment\Week12Assignment\bin\Debug\Week12Assignment.pdb
+C:\Users\Daan Duijkers\source\repos\Week12Assignment\Week12Assignment\obj\Debug\Week12Assignment.csprojAssemblyReference.cache
+C:\Users\Daan Duijkers\source\repos\Week12Assignment\Week12Assignment\obj\Debug\Week12Assignment.MainForm.resources
+C:\Users\Daan Duijkers\source\repos\Week12Assignment\Week12Assignment\obj\Debug\Week12Assignment.PersonForm.resources
+C:\Users\Daan Duijkers\source\repos\Week12Assignment\Week12Assignment\obj\Debug\Week12Assignment.ReservationForm.resources
+C:\Users\Daan Duijkers\source\repos\Week12Assignment\Week12Assignment\obj\Debug\Week12Assignment.WorkshopForm.resources
+C:\Users\Daan Duijkers\source\repos\Week12Assignment\Week12Assignment\obj\Debug\Week12Assignment.csproj.GenerateResource.cache
+C:\Users\Daan Duijkers\source\repos\Week12Assignment\Week12Assignment\obj\Debug\Week12Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Daan Duijkers\source\repos\Week12Assignment\Week12Assignment\obj\Debug\Week12Assignment.exe
+C:\Users\Daan Duijkers\source\repos\Week12Assignment\Week12Assignment\obj\Debug\Week12Assignment.pdb

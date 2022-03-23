@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpdrachtVariabelen1InvoerGetallen", "OpdrachtVariabelen1InvoerGetallen\OpdrachtVariabelen1InvoerGetallen.csproj", "{B30DDE9A-A95F-44D6-8087-532C3DF2D0DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B30DDE9A-A95F-44D6-8087-532C3DF2D0DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B30DDE9A-A95F-44D6-8087-532C3DF2D0DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B30DDE9A-A95F-44D6-8087-532C3DF2D0DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B30DDE9A-A95F-44D6-8087-532C3DF2D0DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+c:\users\daan duijkers\documents\visual studio 2015\Projects\VoorbeeldControls.cs\VoorbeeldControls.cs\bin\Debug\VoorbeeldControls.cs.exe.config
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\VoorbeeldControls.cs\VoorbeeldControls.cs\obj\Debug\VoorbeeldControls.cs.csprojResolveAssemblyReference.cache
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\VoorbeeldControls.cs\VoorbeeldControls.cs\obj\Debug\VoorbeeldControls.cs.VoorbeeldControls.resources
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\VoorbeeldControls.cs\VoorbeeldControls.cs\obj\Debug\VoorbeeldControls.cs.Properties.Resources.resources
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\VoorbeeldControls.cs\VoorbeeldControls.cs\obj\Debug\VoorbeeldControls.cs.csproj.GenerateResource.Cache

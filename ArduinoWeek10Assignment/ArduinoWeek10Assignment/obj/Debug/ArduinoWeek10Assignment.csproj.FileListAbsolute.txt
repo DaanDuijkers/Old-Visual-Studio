@@ -1,0 +1,9 @@
+C:\Users\Daan Duijkers\source\repos\ArduinoWeek10Assignment\ArduinoWeek10Assignment\obj\Debug\ArduinoWeek10Assignment.csprojAssemblyReference.cache
+C:\Users\Daan Duijkers\source\repos\ArduinoWeek10Assignment\ArduinoWeek10Assignment\obj\Debug\ArduinoWeek10Assignment.Form1.resources
+C:\Users\Daan Duijkers\source\repos\ArduinoWeek10Assignment\ArduinoWeek10Assignment\obj\Debug\ArduinoWeek10Assignment.Properties.Resources.resources
+C:\Users\Daan Duijkers\source\repos\ArduinoWeek10Assignment\ArduinoWeek10Assignment\obj\Debug\ArduinoWeek10Assignment.csproj.GenerateResource.cache
+C:\Users\Daan Duijkers\source\repos\ArduinoWeek10Assignment\ArduinoWeek10Assignment\bin\Debug\ArduinoWeek10Assignment.exe.config
+C:\Users\Daan Duijkers\source\repos\ArduinoWeek10Assignment\ArduinoWeek10Assignment\bin\Debug\ArduinoWeek10Assignment.exe
+C:\Users\Daan Duijkers\source\repos\ArduinoWeek10Assignment\ArduinoWeek10Assignment\bin\Debug\ArduinoWeek10Assignment.pdb
+C:\Users\Daan Duijkers\source\repos\ArduinoWeek10Assignment\ArduinoWeek10Assignment\obj\Debug\ArduinoWeek10Assignment.exe
+C:\Users\Daan Duijkers\source\repos\ArduinoWeek10Assignment\ArduinoWeek10Assignment\obj\Debug\ArduinoWeek10Assignment.pdb

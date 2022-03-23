@@ -1,0 +1,9 @@
+C:\Users\Daan Duijkers\source\repos\lucasNumbers\lucasNumbers\bin\Debug\lucasNumbers.exe.config
+C:\Users\Daan Duijkers\source\repos\lucasNumbers\lucasNumbers\bin\Debug\lucasNumbers.exe
+C:\Users\Daan Duijkers\source\repos\lucasNumbers\lucasNumbers\bin\Debug\lucasNumbers.pdb
+C:\Users\Daan Duijkers\source\repos\lucasNumbers\lucasNumbers\obj\Debug\lucasNumbers.csprojAssemblyReference.cache
+C:\Users\Daan Duijkers\source\repos\lucasNumbers\lucasNumbers\obj\Debug\lucasNumbers.Form1.resources
+C:\Users\Daan Duijkers\source\repos\lucasNumbers\lucasNumbers\obj\Debug\lucasNumbers.Properties.Resources.resources
+C:\Users\Daan Duijkers\source\repos\lucasNumbers\lucasNumbers\obj\Debug\lucasNumbers.csproj.GenerateResource.cache
+C:\Users\Daan Duijkers\source\repos\lucasNumbers\lucasNumbers\obj\Debug\lucasNumbers.exe
+C:\Users\Daan Duijkers\source\repos\lucasNumbers\lucasNumbers\obj\Debug\lucasNumbers.pdb
