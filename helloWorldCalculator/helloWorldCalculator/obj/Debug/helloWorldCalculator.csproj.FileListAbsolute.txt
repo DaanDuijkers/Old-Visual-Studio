@@ -1,0 +1,9 @@
+C:\Users\Daan Duijkers\source\repos\helloWorldCalculator\helloWorldCalculator\bin\Debug\helloWorldCalculator.exe.config
+C:\Users\Daan Duijkers\source\repos\helloWorldCalculator\helloWorldCalculator\bin\Debug\helloWorldCalculator.exe
+C:\Users\Daan Duijkers\source\repos\helloWorldCalculator\helloWorldCalculator\bin\Debug\helloWorldCalculator.pdb
+C:\Users\Daan Duijkers\source\repos\helloWorldCalculator\helloWorldCalculator\obj\Debug\helloWorldCalculator.csprojAssemblyReference.cache
+C:\Users\Daan Duijkers\source\repos\helloWorldCalculator\helloWorldCalculator\obj\Debug\helloWorldCalculator.Form1.resources
+C:\Users\Daan Duijkers\source\repos\helloWorldCalculator\helloWorldCalculator\obj\Debug\helloWorldCalculator.Properties.Resources.resources
+C:\Users\Daan Duijkers\source\repos\helloWorldCalculator\helloWorldCalculator\obj\Debug\helloWorldCalculator.csproj.GenerateResource.cache
+C:\Users\Daan Duijkers\source\repos\helloWorldCalculator\helloWorldCalculator\obj\Debug\helloWorldCalculator.exe
+C:\Users\Daan Duijkers\source\repos\helloWorldCalculator\helloWorldCalculator\obj\Debug\helloWorldCalculator.pdb
