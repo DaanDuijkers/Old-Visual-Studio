@@ -1,0 +1,9 @@
+C:\Users\Daan Duijkers\source\repos\divisionMethod\divisionMethod\bin\Debug\divisionMethod.exe.config
+C:\Users\Daan Duijkers\source\repos\divisionMethod\divisionMethod\bin\Debug\divisionMethod.exe
+C:\Users\Daan Duijkers\source\repos\divisionMethod\divisionMethod\bin\Debug\divisionMethod.pdb
+C:\Users\Daan Duijkers\source\repos\divisionMethod\divisionMethod\obj\Debug\divisionMethod.csprojAssemblyReference.cache
+C:\Users\Daan Duijkers\source\repos\divisionMethod\divisionMethod\obj\Debug\divisionMethod.Form1.resources
+C:\Users\Daan Duijkers\source\repos\divisionMethod\divisionMethod\obj\Debug\divisionMethod.Properties.Resources.resources
+C:\Users\Daan Duijkers\source\repos\divisionMethod\divisionMethod\obj\Debug\divisionMethod.csproj.GenerateResource.cache
+C:\Users\Daan Duijkers\source\repos\divisionMethod\divisionMethod\obj\Debug\divisionMethod.exe
+C:\Users\Daan Duijkers\source\repos\divisionMethod\divisionMethod\obj\Debug\divisionMethod.pdb
