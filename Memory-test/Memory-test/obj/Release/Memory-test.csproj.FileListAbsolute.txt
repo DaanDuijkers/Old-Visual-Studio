@@ -1,8 +1,0 @@
-\\Mac\Home\Documents\Visual Studio 2017\Projects\Memory-test\Memory-test\bin\Release\Memory-test.exe.config
-\\Mac\Home\Documents\Visual Studio 2017\Projects\Memory-test\Memory-test\bin\Release\Memory-test.exe
-\\Mac\Home\Documents\Visual Studio 2017\Projects\Memory-test\Memory-test\bin\Release\Memory-test.pdb
-\\Mac\Home\Documents\Visual Studio 2017\Projects\Memory-test\Memory-test\obj\Release\Memory_test.Memory.resources
-\\Mac\Home\Documents\Visual Studio 2017\Projects\Memory-test\Memory-test\obj\Release\Memory_test.Properties.Resources.resources
-\\Mac\Home\Documents\Visual Studio 2017\Projects\Memory-test\Memory-test\obj\Release\Memory-test.csproj.GenerateResource.Cache
-\\Mac\Home\Documents\Visual Studio 2017\Projects\Memory-test\Memory-test\obj\Release\Memory-test.exe
-\\Mac\Home\Documents\Visual Studio 2017\Projects\Memory-test\Memory-test\obj\Release\Memory-test.pdb

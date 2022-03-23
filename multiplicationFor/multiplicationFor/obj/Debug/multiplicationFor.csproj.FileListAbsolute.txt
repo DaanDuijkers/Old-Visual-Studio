@@ -1,9 +1,0 @@
-C:\Users\Daan Duijkers\source\repos\multiplicationFor\multiplicationFor\bin\Debug\multiplicationFor.exe.config
-C:\Users\Daan Duijkers\source\repos\multiplicationFor\multiplicationFor\bin\Debug\multiplicationFor.exe
-C:\Users\Daan Duijkers\source\repos\multiplicationFor\multiplicationFor\bin\Debug\multiplicationFor.pdb
-C:\Users\Daan Duijkers\source\repos\multiplicationFor\multiplicationFor\obj\Debug\multiplicationFor.csprojAssemblyReference.cache
-C:\Users\Daan Duijkers\source\repos\multiplicationFor\multiplicationFor\obj\Debug\multiplicationFor.frmMultiplicationTable.resources
-C:\Users\Daan Duijkers\source\repos\multiplicationFor\multiplicationFor\obj\Debug\multiplicationFor.Properties.Resources.resources
-C:\Users\Daan Duijkers\source\repos\multiplicationFor\multiplicationFor\obj\Debug\multiplicationFor.csproj.GenerateResource.cache
-C:\Users\Daan Duijkers\source\repos\multiplicationFor\multiplicationFor\obj\Debug\multiplicationFor.exe
-C:\Users\Daan Duijkers\source\repos\multiplicationFor\multiplicationFor\obj\Debug\multiplicationFor.pdb

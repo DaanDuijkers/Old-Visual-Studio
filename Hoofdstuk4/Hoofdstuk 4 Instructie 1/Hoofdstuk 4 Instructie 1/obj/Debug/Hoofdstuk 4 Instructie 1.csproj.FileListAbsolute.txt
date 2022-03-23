@@ -1,9 +1,0 @@
-c:\users\daan duijkers\documents\visual studio 2015\Projects\Hoofdstuk 4 Instructie 1\Hoofdstuk 4 Instructie 1\bin\Debug\Hoofdstuk 4 Instructie 1.exe.config
-c:\users\daan duijkers\documents\visual studio 2015\Projects\Hoofdstuk 4 Instructie 1\Hoofdstuk 4 Instructie 1\obj\Debug\Hoofdstuk 4 Instructie 1.csprojResolveAssemblyReference.cache
-c:\users\daan duijkers\documents\visual studio 2015\Projects\Hoofdstuk 4 Instructie 1\Hoofdstuk 4 Instructie 1\obj\Debug\Hoofdstuk_4_Instructie_1.Form1.resources
-c:\users\daan duijkers\documents\visual studio 2015\Projects\Hoofdstuk 4 Instructie 1\Hoofdstuk 4 Instructie 1\obj\Debug\Hoofdstuk_4_Instructie_1.Properties.Resources.resources
-c:\users\daan duijkers\documents\visual studio 2015\Projects\Hoofdstuk 4 Instructie 1\Hoofdstuk 4 Instructie 1\obj\Debug\Hoofdstuk 4 Instructie 1.csproj.GenerateResource.Cache
-c:\users\daan duijkers\documents\visual studio 2015\Projects\Hoofdstuk 4 Instructie 1\Hoofdstuk 4 Instructie 1\bin\Debug\Hoofdstuk 4 Instructie 1.exe
-c:\users\daan duijkers\documents\visual studio 2015\Projects\Hoofdstuk 4 Instructie 1\Hoofdstuk 4 Instructie 1\bin\Debug\Hoofdstuk 4 Instructie 1.pdb
-c:\users\daan duijkers\documents\visual studio 2015\Projects\Hoofdstuk 4 Instructie 1\Hoofdstuk 4 Instructie 1\obj\Debug\Hoofdstuk 4 Instructie 1.exe
-c:\users\daan duijkers\documents\visual studio 2015\Projects\Hoofdstuk 4 Instructie 1\Hoofdstuk 4 Instructie 1\obj\Debug\Hoofdstuk 4 Instructie 1.pdb
